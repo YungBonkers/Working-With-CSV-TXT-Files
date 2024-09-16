@@ -1,3 +1,5 @@
+#This program calculates the average test score for each student.
+# The average is then writtien from csv file to txt file.
 
 student_scores = {
     "Jared": ([97, 85, 45], []),
